@@ -1,0 +1,48 @@
+{
+	"basics":
+	{
+	 "name"  :"pushpa",
+	 "email" :"chinnnipushpalatha516@gmail.com",
+	 "mobile":"9177096809"
+
+    },
+    "career":{
+    	"Info":"To be the part of a reputed organization which provides steady career growth along with job satisfaction, challenges and give value contribution in the success of organization."
+    },
+    "education":[
+    	{
+    		"Degree":"B.Tech(CSE)",
+    		"Institute":"Avanthi Institute of Engg and Tech ",
+    		"Data":["2015-19","76.4%"]
+    	},
+    	{
+    		"Degree":"Intermediate(MPC)",
+    		"Institute":"Sri Chaitanya Junior College ",
+    		"Data":["2013-15","81.9%"]
+
+    	},
+    	{
+    		"Degree":"SSC",
+    		"Institute":"City Public School ",
+    		"Data":["2012-13","80.0%"]
+
+
+    	}],
+"skills":[
+{
+	"title":"Programming Languages",
+	"Info":["C","C++","Java","python"]
+},
+{
+    "title":"DataBase",
+    "Info":["hadoopEcosystems","mysql"]},
+    {
+    "title":"Webtechnology",
+    "Info":["html5","CSS"]},
+    {
+    "title":"librares and frameworks",
+    "Info":["hibernate","spark"]},
+    {
+    "title":"Operating systems",
+    "Info":["Linux,Windows"]
+}]}
